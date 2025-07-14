@@ -1,5 +1,9 @@
 # Space Invaders! 
 
+To play the game: 
+1. Download this repository.
+2. Open and run SpaceInvaders.py. 
+
 This program emulates and runs the arcade game Space Invaders. 
 It reads in data from an external file, included as "StartingInformation.txt", 
 and relies on several image files, all included.
